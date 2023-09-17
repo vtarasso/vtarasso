@@ -16,7 +16,7 @@
 
 * My name is Vitaliy.   
 * I'm a Frontend-developer.   
-* 👨‍🎓[Alem01](https://alem.school/) educational school [alumni](https://alem.school/certificates/alumni/vtarasso).   
+* 👨‍🎓 [Alem01](https://alem.school/) educational school [alumni](https://alem.school/certificates/alumni/vtarasso).   
 * 🖥 Experienced in cross-browser, adaptive layout of websites. 
 * 📚 In the process of learning and developing my knowledge. Moreover, I have big plans for that! 🙂
 

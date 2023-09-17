@@ -20,7 +20,7 @@
 * 🖥 Experienced in cross-browser, adaptive layout of websites. 
 * 📚 In the process of learning and developing my knowledge. Moreover, I have big plans for that! 🙂
 
-## :hammer_and_wrench:Skills:
+## :hammer_and_wrench: Skills:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

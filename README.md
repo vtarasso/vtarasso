@@ -34,9 +34,12 @@
 
 ### :fire: My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vtarasso)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtarasso&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=vatarsso)](https://git.io/streak-stats)
+</div>
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtarasso&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <br><br>
 <div align="right">

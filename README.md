@@ -34,7 +34,7 @@
 
 ### :fire: My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vtarasso)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vtarasso)](https://git.io/streak-stats)
 
 <br>
 

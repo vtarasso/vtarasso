@@ -9,6 +9,8 @@
     <source srcset="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif"  width="298" height="212" media="(max-width: 576px)">
     <img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="498" height="312"> 
   </picture> 
+  
+  [![codewars](https://www.codewars.com/users/vtarasso/badges/small?theme=light)](https://www.codewars.com/users/vtarasso) 
 </div>
 
 ## 😉 A few words about myself
@@ -41,14 +43,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtarasso&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=your-github-vtarasso&style=flat-square&color=blue" alt=""/>
 <div>
-  <span align="left" style="display: inline-block;">
-    <img src="https://www.codewars.com/users/vtarasso/badges/small?theme=light" alt=""/>
-  </span>
-  <span align="right" style="display: inline-block;">
-    <img src="https://komarev.com/ghpvc/?username=your-github-vtarasso&style=flat-square&color=blue" alt=""/>
-  </span>
-</div>
 
 
 

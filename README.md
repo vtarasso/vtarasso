@@ -42,10 +42,10 @@
 
 <br><br>
 <div>
-  <span align="left">
+  <span align="left" style="display: inline-block;">
     <img src="https://www.codewars.com/users/vtarasso/badges/small?theme=light" alt=""/>
   </span>
-  <span align="right">
+  <span align="right" style="display: inline-block;">
     <img src="https://komarev.com/ghpvc/?username=your-github-vtarasso&style=flat-square&color=blue" alt=""/>
   </span>
 </div>
